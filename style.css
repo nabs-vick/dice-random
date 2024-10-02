@@ -1,0 +1,20 @@
+#container{
+    text-align: center;
+    size-adjust: ;
+}
+#value{
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    color: aliceblue;
+}
+#btn{
+    padding: 5px 10px;
+    font-size: 50px;
+    fill: brown;
+    margin: 5px;
+    border-radius: 10px;
+}
+body{
+    background-color: black;
+}
